@@ -1,0 +1,5 @@
+*Untitled*.ipynb
+*.csv
+*.txt
+/.ipynb_checkpoints
+/mlruns
