@@ -3,3 +3,7 @@
 *.txt
 /.ipynb_checkpoints
 /mlruns
+/model_bert
+/model_bert_test
+**/.ipynb_checkpoints/
+**/__pycache__/
