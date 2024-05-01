@@ -1,4 +1,4 @@
-Réalisez une analyse de sentiments grâce au Deep Learning
+Réalisez une analyse de sentiments grâce au Deep Learning.
 Notre projet est de créer une application de Machine Learning capable de prédire le sentiment des tweets.
 La société Air Paradis aimerait pouvoir prédire les "bad buzz".
 
